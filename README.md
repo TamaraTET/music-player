@@ -10,4 +10,4 @@ Technologies Used
 
 HTML, CSS and JavaScript
 
-The website is hosted here:<a href="https://github.com/TamaraTET/music-player">#</a>
+The website is hosted here: <a href="https://tamaratet.github.io/music-player/">Here</a>
